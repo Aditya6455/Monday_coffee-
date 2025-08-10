@@ -1,5 +1,4 @@
 # Monday Coffee Expansion SQL Project
-
 ![Company Logo](https://github.com/Aditya6455/Monday_coffee-/blob/main/1.png)
 
 ## Objective
